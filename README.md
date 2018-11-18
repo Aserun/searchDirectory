@@ -1,2 +1,2 @@
-#Search Directory Library
+Search Directory Library
 
